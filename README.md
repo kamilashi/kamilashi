@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kamila 
-- 👀 looking for an internship
 - 💞️ interested in software development/technical art
 - 📫 kamillashirinova9r1@gmail.com
 
