@@ -3,7 +3,7 @@
 - 📫 kamillashirinova9r1@gmail.com
 
   
-- Check out my [*personal website*](https://kamilashi.github.io/)!
+- Check out my [*portfolio website*](https://kamilashi.github.io/3d)!
 
 <!---
 kamilashi/kamilashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
