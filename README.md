@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamila 
-- 💞️ interested in software development/technical art
+- 💞️ interested in building realtime applications
 - 📫 kamillashirinova9r1@gmail.com
 
   
